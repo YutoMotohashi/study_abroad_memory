@@ -42,7 +42,7 @@ ETHに交換留学をしてみたいと思う、東京大学理系の学生を�
 
 ## 参考情報
 
-- []()
+- [ETH Zurichでの交換留学→大学院進学の再現方法](https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja/blob/main/from-exchange-to-grad-school-at-ethz.md)
   - 過去にETHで修士を取った方の、記録
-- [USTEP体験記]()
+- [USTEP体験記](https://www.u-tokyo.ac.jp/adm/go-global/ja/report-list-USTEP.html)
   - 沢山の体験記
