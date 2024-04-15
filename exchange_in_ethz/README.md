@@ -8,6 +8,9 @@
 
 ## 筆者経歴
 
+著者：本橋悠人
+ホームページ：[https://yutomotohashi.github.io/](https://yutomotohashi.github.io/)
+
 - 2019.4 東京大学理科一類入学
 - 2021.4 東京大学工学部物理工学科進学
 - 2022.9 USTEPで、ETHに交換留学。期間はB4の９月から一年間（留学に伴い一年の留年付き）
